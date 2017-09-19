@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC-03:00'
+TIME_ZONE = 'America/Argentina/Tucuman'
 
 USE_I18N = True
 
